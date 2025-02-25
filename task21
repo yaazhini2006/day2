@@ -1,0 +1,31 @@
+
+ARVINDH <arvindhsmartt@gmail.com>
+10:34 PM (38 minutes ago)
+to 24bct133@kgcas.com, 24bct132@kgcas.com, me, jeeva73396, surya, Vikash
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>InovationLab Timetable</title>
+  </head>
+  <body>
+    <h2>InovationLab TimeTable</h2>
+    <table border="1">
+      <tr>
+        <th>Day</th>
+        <th>Period1</th>
+        <th>Period2</th>
+      </tr>
+      <tr>
+        <td>Monday</td>
+        <td colspan="2">invo-lab</td>
+      </tr>
+      <tr>
+        <td>Tuesday</td>
+        <td colspan="2">invo-lab</td>
+      </tr>
+    </table>
+  </body>
+</html>
