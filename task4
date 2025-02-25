@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action=""method=>
+        <lable for="">UserName</lable>
+        <input type="text"><br><br>
+        <lable for="">Age</lable>
+        <input type="number"><br><br>
+        <lable for="">Email</lable>
+        <input type="email"><br><br>
+        <lable for="">Password</lable>
+        <input type="password"><br><br>
+        <lable for="">D.O.B</lable>
+        <input type="date"><br><br>
+        <lable for="">Login time</lable>
+        <input type="time"><br><br>
+        <lable for="">Working hours</lable>
+        <input type="datetime-local"><br><br>
+        <lable for="">Month</lable>
+        <input type="month"><br><br>
+        <lable for="">url</lable>
+        <input type="url"><br><br>
+        <lable for="">Upload File</lable>
+        <input type="file"><br><br>
+        <lable for="">color</lable>
+        <input type="color"><br><br>
+        <input type="checkbox"name="tamil">Tamil<br><br>
+        <input type="checkbox"name="English">English<br><br>
+        <lable for="">Department</lable>
+        <select name="Department">
+            <option value=""></option>
+            <option value="CT">CT</option>
+            <option value="B.com">B.com</option>
+            <option value="IT">IT</option>
+        </select>
+        <br<br>
+        <input type="submit">
+        <input type="reset">
+   
+
+
+       
+    </form>
+</body>
+</html>
