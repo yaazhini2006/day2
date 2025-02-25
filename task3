@@ -1,0 +1,35 @@
+
+ARVINDH <arvindhsmartt@gmail.com>
+10:32 PM (13 minutes ago)
+to 24bct132@kgcas.com, 24bct151@kgcas.com, Vikash, me, 24bct133@kgcas.com, devchandra366@gmail.com, surya
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <details>
+        <summary>html</summary>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit iure hic assumenda, totam sunt cum, in labore itaque aliquid incidunt officia, animi enim sint maiores consequatur libero. Illo, blanditiis natus?</p>
+       
+    </details>
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Audio Example</title>
+    </head>
+    <body>
+        <h1>Listen to this audio file:</h1>
+        <audio controls>
+            <source src="C:\Users\casstudent.KGISLEDU\Downloads\file_example_MP3_1MG (1).mp3" type="audio/mpeg">
+           
+        </audio>
+    </body>
+    </html>
+   
+   
+</body>
+</html>
